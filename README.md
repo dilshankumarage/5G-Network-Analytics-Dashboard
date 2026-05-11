@@ -34,25 +34,19 @@ Local telecom operations dashboard built with Python and Streamlit. It simulates
 
 ### Overview
 
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.jpeg)
 
 ### Tower Analysis
 
-![Tower Analysis](screenshots/tower-analysis.png)
-
-### Alerts
-
-![Alerts](screenshots/alerts.png)
+![Tower Analysis](screenshots/Tower%20Analysis.jpeg)
 
 ### Anomalies
 
-![Anomalies](screenshots/anomalies.png)
+![Anomalies](screenshots/Anomalies.jpeg)
 
 ### Predictions
 
-![Predictions](screenshots/predictions.png)
-
-## Project Structure
+![Predictions](screenshots/Predictions.jpeg)
 
 ```text
 5g-network-dashboard/
